@@ -2,8 +2,6 @@
 
 A simple form where a user enters height (cm) and weight (kg) and instantly sees their BMI and category (underweight / normal / overweight / obese). Built with HTML5, CSS3, and vanilla JavaScript — no frameworks or build tools.
 
-## Live Demo
-[Add your live deploy link here once hosted, e.g. via GitHub Pages]
 
 ## How to Run Locally
 1. Clone this repository.
